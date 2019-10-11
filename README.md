@@ -20,6 +20,8 @@ For this homework, you should know how to perform the following.
 
 The problems are in `main.tex` which is to be compiled using a LaTeX compiler. Starter code is provided in the accompanying folder `Artistik`.
 
+You will need to install and set up SDL 2.0 for the code to run. Read the SDL 2.0 tutorials linked in the problem set and consult course staff for hepl with SDL 2.0.
+
 ## Grading
 
 The grading rubric for this assignment is given in `rubric.csv`. Note that the grading is different in this rubric from those for the previous homework assignments.
@@ -59,8 +61,8 @@ _Deadline_: 18h on Friday, 25 October on [LMS -> Assignments][lms-ass].
 
 ## Tips
 
-- Start reading the SDL tutorials early.
-- Consult course staff for help with SDL.
+- Start reading the SDL 2.0 tutorials early.
+- Consult course staff for help with SDL 2.0.
 - Do not include identifying information.
 - There is no late submission. Submit whatever you have by the deadline.
 - Failure to turn in any of the above three submissions in a timely manner will result in a deduction of marks for the homework.
