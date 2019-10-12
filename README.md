@@ -42,12 +42,12 @@ There are 3 parts to the submission.
 
 The problem is to be solved by adding to the files and introducing new files as appropriate in the accompanying folder, `Artistik`. The code is to be submitted to GitHub by the specified deadline. Any and all files in your GitHub repository in the `Artistik` folder at the time of the deadline will be considered as your submission. Your submission will be peer reviewed so please do not include any identifying information in it.
 
-_Deadline_: 18h on Monday, 21 October in your assignment repository
+_Deadline_: 18h on Monday, 28 October in your assignment repository
 
 ### 3.2 Feedback Form
 Every student has to submit feedback on the homework at [LMS -> Tests & Quizzes][lms-tq]. The deadline is at the same time as the problem set.
 
-_Deadline_: 18h on Monday, 21 October on [LMS -> Tests & Quizzes](lms-tq).
+_Deadline_: 18h on Monday, 28 October on [LMS -> Tests & Quizzes](lms-tq).
 
 [lms-tq]: https://lms.habib.edu.pk/x/gAfY51
 
@@ -55,7 +55,7 @@ _Deadline_: 18h on Monday, 21 October on [LMS -> Tests & Quizzes](lms-tq).
 
 Every student will be assigned 2 submissions for grading according to `rubric.csv`. See [LMS -> Assignments][lms-ass] for details on the peer review.
 
-_Deadline_: 18h on Friday, 25 October on [LMS -> Assignments][lms-ass].
+_Deadline_: 18h on Friday, 1 November on [LMS -> Assignments][lms-ass].
 
 [lms-ass]: https://lms.habib.edu.pk/x/72U32u
 
